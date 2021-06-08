@@ -1,6 +1,6 @@
 {
-  "name": "phishing",
-  "version": "1.0.0",
+  "name": "fishing",
+  "version": "0.0.1",
   "description": "nothing specical",
   "main": "index.js",
   "dependencies": {
@@ -15,6 +15,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Quoc Hung Bui",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buiqhung127/fishing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/buiqhung127/fishing/issues"
+  },
+  "homepage": "https://github.com/buiqhung127/fishing#readme"
 }
